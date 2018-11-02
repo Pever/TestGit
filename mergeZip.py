@@ -36,3 +36,6 @@ for file in arg:
 shutil.make_archive(outDir + file3, "zip", desDir)
 
 print('输出文件路径:'+outDir + file3+'.zip')
+
+
+-----09opi
