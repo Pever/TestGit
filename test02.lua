@@ -23,3 +23,7 @@ print(#array2)
 for i,v in ipairs(array2) do
 	print(i,v)
 end
+
+
+
+---main test 1
